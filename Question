@@ -1,0 +1,5 @@
+WAP to create a text file and perform following operation on it OO Python:
+ Find frequency of each word in the file (without inbuilt function)
+ Count no. of whitespaces.
+ Print first word of each line.
+ Find all the words containing letter entered by user
